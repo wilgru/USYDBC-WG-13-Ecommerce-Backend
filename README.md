@@ -36,7 +36,7 @@ Next is to seed the database. To seed the data base, run the following script:
 npm run seed
 ```
 
-Thi swill give you some data to work with.
+This will give you some data to work with.
 
 Now use the following command in your terminal to start your local server:
 
