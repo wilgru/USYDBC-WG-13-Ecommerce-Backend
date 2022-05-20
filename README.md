@@ -24,7 +24,21 @@ git clone git@github.com:wilgru/USYDBC-WG-13-Ecommerce-Backend.git
 <a name="Usage"></a>
 ## Usage
 
-Use the following command in your terminal to start your local server:
+Fist you need to set up the database. You can do this by using the schema.sql file found under /db. To do this run the following command in your Mysql shell:
+
+```bash
+SOURCE db/schema.db
+```
+
+Next is to seed the database. To seed the data base, run the following script:
+
+```bash
+npm run seed
+```
+
+Thi swill give you some data to work with.
+
+Now use the following command in your terminal to start your local server:
 
 ```bash
 npm start
