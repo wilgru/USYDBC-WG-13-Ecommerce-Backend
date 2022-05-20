@@ -8,7 +8,19 @@ const productData = [
     category_id: 1,
   },
   {
+    product_name: 'Button Shirt',
+    price: 14.99,
+    stock: 14,
+    category_id: 1,
+  },
+  {
     product_name: 'Running Sneakers',
+    price: 90.0,
+    stock: 25,
+    category_id: 5,
+  },
+  {
+    product_name: 'Slipper',
     price: 90.0,
     stock: 25,
     category_id: 5,
