@@ -3,11 +3,11 @@
 
 ## Description
 
- 
+An e-commerce backend thhat makes use of APIs to get, update, create, and delete data from the corresponding databases. 
 
 ## Table of Contents
  
-[Installation](#Installation)
+[Installation](#Installation)   
 [Usage](#Usage)   
 [Demonstration](#Demonstration)  
 [License](#License)    
